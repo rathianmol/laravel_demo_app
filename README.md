@@ -1,5 +1,4 @@
-Hey!
-Worked on a demo Laravel CRUD App.
+Demo Laravel Employee CRUD App.
 Below is how I tackled the problem:
 
 1. New laravel Installation: 
